@@ -1,0 +1,75 @@
+{
+    "id": "99177164",
+    "premium": false,
+    "name": "Слесарь-сантехник",
+    "department": null,
+    "has_test": false,
+    "response_letter_required": false,
+    "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+        "from": 70000,
+        "to": 70000,
+        "currency": "RUR",
+        "gross": false
+    },
+    "type": {
+        "id": "open",
+        "name": "Открытая"
+    },
+    "address": null,
+    "response_url": null,
+    "sort_point_distance": null,
+    "published_at": "2024-06-15T17:25:19+0300",
+    "created_at": "2024-06-15T17:25:19+0300",
+    "archived": false,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=99177164",
+    "insider_interview": null,
+    "url": "https://api.hh.ru/vacancies/99177164?host=hh.ru",
+    "alternate_url": "https://hh.ru/vacancy/99177164",
+    "relations": [],
+    "employer": {
+        "id": "5191939",
+        "name": "Рем ЭКО",
+        "url": "https://api.hh.ru/employers/5191939",
+        "alternate_url": "https://hh.ru/employer/5191939",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5191939",
+        "accredited_it_employer": false,
+        "trusted": true
+    },
+    "snippet": {
+        "requirement": "Наличие образования и обучения. Умение организовать рабочие процессы для выполнения поставленных задач.",
+        "responsibility": "Техническое обслуживание. Выполнение регламентных работ. Ведение журналов и актов."
+    },
+    "contacts": null,
+    "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+    },
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "professional_roles": [
+        {
+            "id": "115",
+            "name": "Слесарь, сантехник"
+        }
+    ],
+    "accept_incomplete_resumes": false,
+    "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+    },
+    "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+    },
+    "adv_response_url": null,
+    "is_adv_vacancy": false,
+    "adv_context": null
+}
